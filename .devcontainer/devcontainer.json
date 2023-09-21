@@ -1,9 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  },
-  "settings": {
-    "workbench.editor.languageDetection": false,
-    "workbench.preferredLanguage": "en"
-  }
-}
