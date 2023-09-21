@@ -4,6 +4,6 @@
   },
   "settings": {
     "workbench.editor.languageDetection": false,
-    "locale": "en"
+    "workbench.preferredLanguage": "en"
   }
 }
