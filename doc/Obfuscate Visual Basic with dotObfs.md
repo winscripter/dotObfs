@@ -7,7 +7,7 @@ We will demonstrate how can you easily obfuscate VB with dotObfs.
 ```csharp
 using System;
 using System.Collections.Generic;
-using dotObfs.Core.CSharp;
+using dotObfs.Core.VisualBasic;
 using dotObfs.Core;
 
 namespace DotObfsClientDemo
