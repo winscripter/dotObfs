@@ -1,7 +1,7 @@
-# How to obfuscate the Visual Basic programming language dynamically with dotObfs?
+# How to obfuscate the F# programming language dynamically with dotObfs?
 Hello, developers! Thank you for learning how to use dotObfs.
 
-We will demonstrate how can you easily obfuscate VB with dotObfs.
+We will demonstrate how can you easily obfuscate F# with dotObfs.
 
 # Example
 ```csharp
