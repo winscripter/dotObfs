@@ -1,0 +1,10 @@
+.
+..
+./.dockerenv
+./doc
+./dotObfs
+./dotObfs/dotObfs
+./dotObfs/dotObfs/CSharp
+./dotObfs/dotObfs/FSharp
+./dotObfs/dotObfs/VisualBasic
+./dotObfs/dotObfs/Properties
