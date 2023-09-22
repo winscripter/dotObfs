@@ -1,5 +1,5 @@
 # dotObfs
-A C# library to obfuscate .NET languages (version 1.0). Currently not intended for use, since it can only obfuscate C# at the moment.
+A C# library to obfuscate .NET languages (version 1.1). Currently not intended for use, since it can only obfuscate C# at the moment.
 
 In most cases, you really don't need to obfuscate C#. Not a lot of developers do so. Obfuscating languages like JavaScript makes sense, since anyone can see
 the source with their browser. Most .NET developers make their projects open-source.
