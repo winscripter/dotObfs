@@ -1,0 +1,34 @@
+.
+..
+./.dockerenv
+./doc
+./dotObfs
+./dotObfs/dotObfs
+./dotObfs/dotObfs/CSharp
+./dotObfs/dotObfs/FSharp
+./dotObfs/dotObfs/VisualBasic
+./dotObfs/dotObfs/Properties
+./.devcontainer/devcontainer.json
+./doc/Obfuscate C# with dotObfs.md
+./doc/Obfuscate F# with dotObfs.md
+./doc/Obfuscate Visual Basic with dotObfs.md
+./dotObfs/dotObfs/AssociationDuplicateException.cs
+./dotObfs/dotObfs/Ignore.cs
+./dotObfs/dotObfs/LanguageDefinitionAssociations.cs
+./dotObfs/dotObfs/ObfuscatorRule.cs
+./dotObfs/dotObfs/CSharp/CSObfuscator.cs
+./dotObfs/dotObfs/CSharp/CSharpLexer.cs
+./dotObfs/dotObfs/CSharp/LexerException.cs
+./dotObfs/dotObfs/CSharp/Token.cs
+./dotObfs/dotObfs/CSharp/TokenType.cs
+./dotObfs/dotObfs/FSharp/FSObfuscator.cs
+./dotObfs/dotObfs/FSharp/FSharpLexer.cs
+./dotObfs/dotObfs/FSharp/LexerException.cs
+./dotObfs/dotObfs/FSharp/Token.cs
+./dotObfs/dotObfs/FSharp/TokenType.cs
+./dotObfs/dotObfs/VisualBasic/VBObfuscator.cs
+./dotObfs/dotObfs/VisualBasic/VisualBasicLexer.cs
+./dotObfs/dotObfs/VisualBasic/LexerException.cs
+./dotObfs/dotObfs/VisualBasic/Token.cs
+./dotObfs/dotObfs/VisualBasic/TokenType.cs
+./dotObfs/dotObfs/Properties/AssemblyInfo.cs
