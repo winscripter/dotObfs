@@ -1,5 +1,5 @@
 # dotObfs
-A C# library to obfuscate .NET languages (version 1.2). Currently not intended for use, since it can only obfuscate C#, VB, and F# at the moment.
+dotObfs is a library that can help you obfuscate up to 3 programming languages with .NET.
 
 In most cases, you really don't need to obfuscate .NET. Not a lot of developers do so. Obfuscating languages like JavaScript makes sense, since anyone can see
 the source with their browser. Most .NET developers make their projects open-source.
